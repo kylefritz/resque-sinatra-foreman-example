@@ -1,7 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'rack'
+gem 'foreman'
 gem 'sinatra'
+gem 'shotgun'
 gem 'resque'
-
-
